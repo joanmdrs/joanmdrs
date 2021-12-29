@@ -1,8 +1,47 @@
 <h1> Olá, eu me chamo Joan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Sou um estudante da área de tecnologia, atualmente estou no 4º período do curso de Bacharelado em Sistemas da Informação pela Universidade Federal do Rio Grande do Norte, Centro de Ensino Superior do Seridó, Caicó, RN. Possuo certificado de Técnico em Informática (2019) pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Parelhas, RN.
+✏️ Sou um dev que gosta muito de aprender coisas novas e de enfrentar desafios. A programação representa para mim uma das coisas que mais gosto de fazer, a cada dia mergulho mais dentro desse mundo e fico ainda mais empolgado, concerteza é o que amo fazer. 
 
-Sou um dev que gosta muito de aprender coisas novas e de enfrentar desafios. A programação representa para mim uma das coisas que mais gosto de fazer, a cada dia mergulho mais dentro desse mundo e fico ainda mais empolgado, concerteza é o que amo fazer. 
+### Linguagens e Tecnologias
 
+<div style="display: inline_block;">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+</div>
+
+
+### Ferramentas
+
+<div style="display: inline_block;">
+  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img align="center" alt="Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" alt="DevIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
+  
+
+  
+
+
+</div>
+
+<br>
+<br>
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 
 
