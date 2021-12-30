@@ -1,6 +1,6 @@
 <h1> Olá, eu me chamo Joan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-✏️ Sou um dev que gosta muito de aprender coisas novas e de enfrentar desafios. A programação representa para mim uma das coisas que mais gosto de fazer, a cada dia mergulho mais dentro desse mundo e fico ainda mais empolgado, concerteza é o que amo fazer. 
+✏️ Sou um dev que gosta muito de aprender coisas novas e de enfrentar desafios. A programação representa para mim uma das coisas que mais gosto de fazer, e a cada dia mergulho mais dentro desse mundo e fico ainda mais engajado, concerteza é o que amo fazer. 
 
 ### Linguagens e Tecnologias
 
