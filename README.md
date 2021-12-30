@@ -13,9 +13,7 @@
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
 </div>
-
 
 ### Ferramentas
 
@@ -28,24 +26,23 @@
   <img align="center" alt="DevIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
 </div>
 
-### Meus contatos
+### Contato
  
 <div> 
   <a href="https://instagram.com/joandeazevedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joan.azevedo.medeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joan-de-azevedo-medeiros-357631212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
-<br>
-<br>
+### Atividade
 
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/joanmdrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+    
+   ![Snake animation](https://github.com/joanmdrs/joanmdrs/blob/output/github-contribution-grid-snake.svg)
+</div>
   
 
 
