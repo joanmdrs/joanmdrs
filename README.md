@@ -1,10 +1,10 @@
-<h1> Olá, eu me chamo Joan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1> Hi, my name is Joan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <img align="right"  width="500" src="./assets/undraw_developer_activity_re_39tg.svg" />
 <br>
-<p align="justify">✏️ Sou um dev que gosta muito de aprender coisas novas e de enfrentar desafios. A programação representa para mim uma das coisas que mais gosto de fazer, e a cada dia mergulho mais dentro desse mundo e fico ainda mais engajado, concerteza é o que amo fazer. </p>
+<p align="justify">✏️I am a professional focused on the development of web applications, participating from the conception to the delivery of the product, working mainly in the Front End, but also present in the development of the Back-End </p>
 
-### Linguagens e Tecnologias
+### Skills
 
 <div style="display: inline_block;">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,6 +13,8 @@
   <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
+
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -23,7 +25,7 @@
           
 </div>
 
-### Ferramentas
+### Tools
 
 <div style="display: inline_block;">
   <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -34,7 +36,7 @@
   <img align="center" alt="DevIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
 </div>
 
-### Contato
+### Contact
  
 <div> 
   <a href="https://instagram.com/joandeazevedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -44,12 +46,12 @@
   
 </div>
 
-### Atividade
+### Activity
 
 <div align="left">
   <a href="https://github.com/joanmdrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=winteriscoming&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=winteriscoming"/>
 </div>
   
   ![Snake animation](https://github.com/joanmdrs/joanmdrs/blob/output/github-contribution-grid-snake.svg)
