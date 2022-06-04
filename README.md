@@ -1,4 +1,4 @@
-<h1> Hi, my name is Joan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1> Hi, my name is Joan </h1>
 
 <img align="right"  width="500" src="./assets/undraw_developer_activity_re_39tg.svg" />
 <br>
