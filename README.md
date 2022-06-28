@@ -50,8 +50,8 @@
 
 <div align="left">
   <a href="https://github.com/joanmdrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=winteriscoming&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=winteriscoming"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanmdrs&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanmdrs&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
   ![Snake animation](https://github.com/joanmdrs/joanmdrs/blob/output/github-contribution-grid-snake.svg)
