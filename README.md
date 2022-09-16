@@ -1,8 +1,7 @@
 <h1> Hi, my name is Joan </h1>
 
-<img align="right"  width="500" src="./assets/undraw_developer_activity_re_39tg.svg" />
 <br>
-<p align="justify">✏I am a professional focused on the development of web applications, participating from the conception to the delivery of the product, working mainly in the Front End, but also present in the development of the Back-End </p>
+<p align="justify">✏ I am a professional focused on the development of web applications, participating from the conception to the delivery of the product, working mainly in the Front End, but also present in the development of the Back-End </p>
 
 ## Skills
 
