@@ -1,4 +1,4 @@
-<img src="./assets/banner linkedin.png" />
+<img src="./assets/banner linkedin(1).png" />
 
 ## Skills
 
