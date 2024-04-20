@@ -1,42 +1,27 @@
-<img src="./assets/banner.png" />
+### Bem-vindo ao meu GitHub! 👋
 
-## Skills
+Olá! Meu nome é Joan, e este é o meu espaço aqui no GitHub, onde compartilho projetos, códigos e ideias. Não diria que sou apoixado por programação, mas amo a sensação de ver o código funcionando.
 
-<div style="display: inline_block;">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
+#### Sobre Mim
+- 🎓 Sou formado como Técnico em TI e atualmente estou finalizando a graduação em Sistemas de Informação, finalizando o TCC para ser mais específico. 
+- 💼 Ainda não trabalho na minha área, mas espero um dia fazer parte de uma empresa de Tecnologia.
+- 📚 Também gosto muito de ensinar, e espero um dia dar aulas em uma universidade como professor de desenvolvimento web ou gestão de projetos.
+- 🏢 Além disso, também pretendo montar uma empresa algum dia, só não sei quando. 
 
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-          
-          
-</div>
+#### O Que Você Encontrará Aqui
+- 🚀 Projetos pessoais e colaborativos que estou trabalhando. 
+- 💻 Códigos e scripts que desenvolvi para resolver problemas ou explorar novas ideias.
 
-## Tools
+#### Tecnologias Que Eu Utilizo
+- 🌐 **Linguagens de Programação:** Python, JavaScript, TypesScript
+- 🛠️ **Frameworks e Bibliotecas:** React.js, Node.js, Django
+- 🧰 **Ferramentas:** Git, Docker, VS Code, Figma 
 
-<div style="display: inline_block;">
-  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-  <img align="center" alt="DevIcon" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
-</div>
+#### Onde Me Encontrar
+- 📫 **Email:** joan.azevedo.medeiros@gmail.com
+- ☎️ **Telefone:** (84) 99945-8222
+- 🔗 **LinkedIn:** [Meu linkedin](https://www.linkedin.com/in/joan-de-azevedo-medeiros-357631212)
+- 🌐 **Website/Blog:** [Meu portifólio](https://joan-medeiros.netlify.app/)
 
-## Contact
- 
-<div> 
-  <a href = "mailto:joan.azevedo.medeiros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%DC143C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joan-de-azevedo-medeiros-357631212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://joan-medeiros.netlify.com" target="_blank"><img src="https://img.shields.io/badge/Portifólio-00000F?style=for-the-badge&logo=svelte&logoColor=white" target="_blank"></a> 
-  
-</div>
+#### Obrigado Por Visitar!
+Espero que você encontre algo interessante por aqui. Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão. Vamos criar algo incrível juntos! 😊
