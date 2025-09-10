@@ -3,7 +3,7 @@
 Olá! Meu nome é Joan, e este é o meu espaço aqui no GitHub, onde compartilho projetos, códigos e ideias. Não diria que sou apoixado por programação, mas amo a sensação de ver o código funcionando.
 
 #### Sobre Mim
-- 🎓 Sou formado como Técnico em TI e atualmente estou finalizando a graduação em Sistemas de Informação, finalizando o TCC para ser mais específico. 
+- 🎓 Sou formado como Técnico em TI e graduado em Sistemas de Informação. Atualmente curso mestrado Profissional em Tecnologia da Informação.
 - 💼 Ainda não trabalho na minha área, mas espero um dia fazer parte de uma empresa de Tecnologia.
 - 📚 Também gosto muito de ensinar, e espero um dia dar aulas em uma universidade como professor de desenvolvimento web ou gestão de projetos.
 - 🏢 Além disso, também pretendo montar uma empresa algum dia, só não sei quando. 
@@ -14,12 +14,12 @@ Olá! Meu nome é Joan, e este é o meu espaço aqui no GitHub, onde compartilho
 
 #### Tecnologias Que Eu Utilizo
 - 🌐 **Linguagens de Programação:** Python, JavaScript, TypesScript
-- 🛠️ **Frameworks e Bibliotecas:** React.js, Node.js, Django
+- 🛠️ **Frameworks e Bibliotecas:** React.js, Node.js, Django, Angular
 - 🧰 **Ferramentas:** Git, Docker, VS Code, Figma 
 
 #### Onde Me Encontrar
 - 📫 **Email:** joan.azevedo.medeiros@gmail.com
-- ☎️ **Telefone:** (84) 99945-8222
+- ☎️ **Telefone:** (84) 99145-8222
 - 🔗 **LinkedIn:** [Meu linkedin](https://www.linkedin.com/in/joan-de-azevedo-medeiros-357631212)
 - 🌐 **Website/Blog:** [Meu portifólio](https://joan-medeiros.netlify.app/)
 
